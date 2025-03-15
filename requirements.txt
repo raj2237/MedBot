@@ -4,7 +4,7 @@ flask
 pypdf
 python-dotenv
 pinecone[grpc]
-# langnchain-pinecone ==0.2.3
+langnchain-pinecone ==0.2.3
 langchain_groq
 langchain_community
 langchain_experimental
